@@ -1,8 +1,11 @@
 # Python for Visual Designers
 
 Type@Cooper Public Workshop
+
 Spring 2024
+
 Instructor: Maurice Meilleur
+
 Meetings: get in touch on our Slack
 
 There is a Slack workspace and Zoom link available only to students.
