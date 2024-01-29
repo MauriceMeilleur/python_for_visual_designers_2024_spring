@@ -11,15 +11,15 @@ Meetings: get in touch on our Slack
 There is a Slack workspace and Zoom link available only to students.
 
 ## Course description
-With no programming experience necessary, workshop participants will learn the basics of the Python programming language while working in the free DrawBot application for MacOS. Read more »
+With no programming experience necessary, workshop participants will learn the basics of the Python programming language while working in the free DrawBot application for MacOS. Read more»
 
 ## Links & resources
-DrawBot and Python documentation, as well as DrawBot script collections for you to try out and tweak. Read more »
+DrawBot and Python documentation, as well as DrawBot script collections for you to try out and tweak. Read more»
 
 ## Schedule
 Class sessions are 18.30–20.30 [US Eastern](https://www.timeanddate.com/worldclock/converter.html)
 
-Note: Daylight time in the US starts 10 March; for the first 2 sessions, US Eastern is GMT/UTC–5; for the remaining 4 sessions it is GMT/UTC–4
+Note: Daylight time in the US starts 10 March; for the first 2 sessions, US Eastern is GMT/UTC–5; for the remaining 4 sessions it’s GMT/UTC–4
 
 - Session 01	27 Feb	Loops and shapes
 - Session 02	05 Mar	Objects and canvas
