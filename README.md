@@ -1,6 +1,6 @@
 # Python for Visual Designers
 
-Type@Cooper Public Workshop
+[Type@Cooper Public Workshop](https://coopertype.org/events/python-for-visual-designers-2)
 
 Spring 2024
 
@@ -11,15 +11,15 @@ Meetings: get in touch on our Slack
 There is a Slack workspace and Zoom link available only to students.
 
 ## Course description
-With no programming experience necessary, workshop participants will learn the basics of the Python programming language while working in the free DrawBot application for MacOS. Read more»
+Workshop participants will learn the basics of the Python programming language while working in the free DrawBot application for MacOS. No programming experience is necessary! [Read more»](course_info/README)
 
 ## Links & resources
-DrawBot and Python documentation, as well as DrawBot script collections for you to try out and tweak. Read more»
+DrawBot and Python documentation, as well as DrawBot script collections for you to try out and tweak. [Read more»](resources)
 
 ## Schedule
 Class sessions are 18.30–20.30 [US Eastern](https://www.timeanddate.com/worldclock/converter.html)
 
-Note: Daylight time in the US starts 10 March; for the first 2 sessions, US Eastern is GMT/UTC–5; for the remaining 4 sessions it’s GMT/UTC–4
+Note for students outside the US: Daylight time in the US starts 10 March. For the first 2 sessions, US Eastern is GMT/UTC–5; for the remaining 4 sessions it’s GMT/UTC–4. I’ll try to remind you in class before the shift.
 
 - Session 01	27 Feb	Loops and shapes
 - Session 02	05 Mar	Objects and canvas
@@ -54,9 +54,12 @@ All class sessions are recorded. Links will become active after each session is 
 - Session 05 passcode:
 
 ## Zine
-I encourage everyone to contribute 6 pages/3 spreads for the class zine. I’ll make it available in .pdf once the course has concluded. Format is A5 portrait with full bleeds, and the submission deadline is 2 April. Drawbot templates»
+Everyone is encouraged to contribute 6 pages/3 spreads for the class zine. I’ll make it available in .pdf once the course has concluded. Format is A5 portrait with full bleeds, and the submission deadline is 2 April. [Drawbot templates»](zine)
 
-Past zines for inspiration:
-- Zine 1
-- Zine 2
-- Zine 3
+Past zines for inspiration (these are all from David Jonathan Ross’s students in this course):
+- [Zine 1](https://drive.google.com/file/d/1lV9MC17-bLOm1kO5i_7HHkMTIs5AuWQz/view?usp=sharing)
+- [Zine 2](https://drive.google.com/file/d/1QkG4PNCQ0CyT_iGlrTddg8verCWzMWaD/view?usp=sharing)
+- [Zine 3](https://drive.google.com/file/d/1ft18oUZN-dkg-9s5YXBdLPMF0G8J4Vdq/view?usp=sharing)
+
+## Credits
+I owe a huge debt of gratitude to Just van Rossum (who taught me how to write code in Python!), Andy Clymer, and [David Jonathan Ross](https://djr.com/), all of whom have taught various versions of this course for Cooper. The structure of our course this session closely matches DJR’s approach, and we’ll be using a lot of his code.
