@@ -2,8 +2,8 @@
 
 * [**Session 1 code**](/session-1/code)
 * [**Session 1 challenges**](/session-1/challenges)
-* [**Session 1 recording**](https://github.com/djrrb/Python-for-Visual-Designers-Fall-2023#recordings)
-* [**Slides**](/session-1/intro-slides.pdf)
+* [**Session 1 recording**](pending)
+* [**Slides**](pending)
 
 ## Rough outline
 
@@ -22,8 +22,7 @@
     * `width()` get the document width
     * `height()` get the document height
     * `rect(x, y, w, h)` draw a rectangle
-    * `oval(x, y, w, h)` draw an oval
-
+    * `oval(x, y, w, h)` draw an oval	
     
 * Loops (`for myItem in mySequence:`)
     * Sequences
