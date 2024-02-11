@@ -1,7 +1,7 @@
 # Session 1: Loops and Shapes
 
-* [**Session 1 code**](/session-1/code)
-* [**Session 1 challenges**](/session-1/challenges)
+* [**Session 1 code**](/session_1/code)
+* [**Session 1 challenges**](/session_1/challenges)
 * [**Session 1 recording**](pending)
 * [**Slides**](pending)
 
