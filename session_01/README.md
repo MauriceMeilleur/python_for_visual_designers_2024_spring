@@ -33,10 +33,10 @@
  * Keyboard shortcuts
     * cmd+r = run
     * select + cmd+shift+arrows = change numeric value(s) or pairs of values (left arrow = left value, right arrow = right value)
-    * select + cmd+option + mouse click and hold in  
+    * select + cmd+option + mouse click and hold in the coding window
 
 ## Optional readings
-* [The Zen of Python](https://www.python.org/dev/peps/pep-0020/#easter-egg)
 * [The Origins of Python](https://inference-review.com/article/the-origins-of-python)
-* The [Drawbot icon by Andy Clymer](https://www.drawbot.com/content/drawBotIcon.html) is created in drawbot!
+* [The Zen of Python](https://www.python.org/dev/peps/pep-0020/#easter-egg)
+* Andy Clymer created the [Drawbot icon](https://www.drawbot.com/content/drawBotIcon.html) in DrawBot
  
