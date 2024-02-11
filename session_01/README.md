@@ -32,7 +32,7 @@
 
  * Keyboard shortcuts
     * cmd+r = run
-    * select + cmd+shift+arrows = change numeric value(s) or pairs of values (left arrow = left value, right arrow = right value)
+    * select + cmd+shift+arrows = change numeric value(s) or pairs of values (left/right arrows = left value, up/down arrows = right value)
     * select + cmd+option + mouse click and hold in the coding window
 
 ## Optional readings
