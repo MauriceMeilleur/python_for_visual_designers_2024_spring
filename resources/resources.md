@@ -5,7 +5,7 @@
 * [Drawbot on GitHub](https://github.com/typemytype/drawbot)
 * [@drawBot on Mastodon/typo.social](https://typo.social/@drawBot)
 * [Drawbot Forum](https://forum.drawbot.com)
-* [Drawbot Skia](https://github.com/justvanrossum/drawbot-skia) for cross-platform use (in development, maybe vaporware)
+* [Drawbot Skia](https://github.com/justvanrossum/drawbot-skia) for cross-platform use (in development, fingers crossed!)
 * [Python for Designers](http://www.pythonfordesigners.com), a beautifully-designed Drawbot walkthrough by [Roberto Arista](http://projects.robertoarista.it)
 * [RoboDocs DrawBot Examples](https://github.com/roboDocs/drawBotExamples)
 
