@@ -11,7 +11,7 @@ Meetings: get in touch on our Slack
 There is a Slack workspace and Zoom link available only to students.
 
 ## Course description
-Workshop participants will learn the basics of the Python programming language while working in the free DrawBot application for MacOS. No programming experience is necessary! [Read more»](course_info/README.md)
+Workshop participants will learn the basics of the Python programming language while working in the free DrawBot application for MacOS. No programming experience is necessary! [Read more»](course_info/info.md)
 
 ## Links & resources
 DrawBot and Python documentation, as well as DrawBot script collections for you to try out and tweak. [Read more»](resources)
