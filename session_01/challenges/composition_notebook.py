@@ -3,7 +3,7 @@ inch = 72
 newPage(7.48*inch, 9.84*inch)
 
 # define a dot radius
-radius = 10
+radius = 7.5
 
 # draw a lot of circles
 for myNumber in range(3000):
