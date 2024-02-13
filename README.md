@@ -39,7 +39,7 @@ A record of the scripts that we write together in class. Links will become activ
 ## Challenges
 Our version of homework: solve problems and practice skills we cover in class. Skip ahead, or riff on these to make and solve your own problems. Possible solutions are available if you want to peek. Post what you make in #show_and_tell on Slack!
 
-- Session 01 challenges
+- [Session 01 challenges](session_01/challenges)
 - Session 02 challenges
 - Session 03 challenges
 - Session 04 challenges
