@@ -19,7 +19,7 @@ DrawBot and Python documentation, as well as DrawBot script collections for you 
 ## Schedule
 Class sessions are 18.30–20.30 [US Eastern](https://www.timeanddate.com/worldclock/converter.html)
 
-Note for students outside the US: Daylight time in the US starts 10 March. For the first 2 sessions, US Eastern is GMT/UTC–5; for the remaining 4 sessions it’s GMT/UTC–4. I’ll try to remind you in class before the shift.
+Note for students outside the US: Daylight time in the US starts 10 March. For the first 2 sessions, US Eastern is GMT/UTC–5; for the remaining 3 sessions it’s GMT/UTC–4. I’ll try to remind you in class before the shift.
 
 - Session 01 / 27 February / Loops and shapes
 - Session 02 / 05 March	/ Objects and canvas
