@@ -7,19 +7,12 @@
 * [Drawbot Forum](https://forum.drawbot.com)
 * [Drawbot Skia](https://github.com/justvanrossum/drawbot-skia) for cross-platform use (in development, fingers crossed!)
 * [Python for Designers](http://www.pythonfordesigners.com), a beautifully-designed Drawbot walkthrough by [Roberto Arista](http://projects.robertoarista.it)
-* [RoboDocs DrawBot Examples](https://github.com/roboDocs/drawBotExamples)
 
 ## Python resources
 * [Python documentation](https://docs.python.org/3/)
 * [Python Beginner’s Guide for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 
-## Drawbot Modules
-* [Pagebot](https://github.com/PageBot/PageBot)
-* [Furniture](https://github.com/stenson/furniture) animation tools by Rob Stenson ([blog post](https://robstenson.com/articles/animating-with-drawbot.html))
-* [DrawBotModules](https://github.com/danielgamage/DrawBotModules)
-* [drawbotlab](https://github.com/djrrb/drawbotlab) (is this deprecated?)
-
-### Drawbot projects
+## Drawbot projects
 * [Daily Drawbot](https://dailydrawbot.tumblr.com), fun animations by [Just van Rossum](https://twitter.com/justvanrossum)
 * [Lowlands](http://hansje.net/Lowlands-2023) by [Hansje van Halem](http://hansje.net) and [Just van Rossum](https://www.instagram.com/p/CzOp8ESI06l/)
 * [Drawbot Plotter](https://github.com/jenskutilek/DrawBotPlotter) by Jens Kutilek
@@ -30,7 +23,7 @@
 * [Plus equals](https://github.com/robweychert/plus-equals) by Rob Weychert
 * [Incomplete Cubes Generator](https://github.com/robweychert/incomplete-cubes-generator) by Rob Weychert
 
-### Drawbot script collections
+## Drawbot script collections
 
 * [Agyei Archer](https://github.com/agyeiarcher/drawbot/)
 * [Alphabet Type](https://github.com/AlphabetType/DrawBot-Scripts) (robofont only)
