@@ -45,13 +45,13 @@ Our version of homework: solve problems and practice skills we cover in class. S
 - Session 04 challenges
 
 ## Recordings
-All class sessions are recorded. Links will become active after each session is concluded.
+All class sessions are recorded. Links will become active after each session is concluded. Please do not share these videos with anyone outside of our class.
 
-- Session 01 recording passcode:
-- Session 02 recording passcode:
-- Session 03 recording passcode:
-- Session 04 recording passcode:
-- Session 05 recording passcode:
+- [Session 01 recording](https://drive.google.com/file/d/1txmk_Fea9CiO52sLYV8YJ2c26-0pVCVF/view?usp=drive_link)
+- Session 02 recording
+- Session 03 recording
+- Session 04 recording
+- Session 05 recording
 
 ## Zine
 Everyone is encouraged to contribute 6 pages/3 spreads for the class zine. I’ll make it available in .pdf once the course has concluded. Format is A5 portrait with full bleeds, and the submission deadline is 2 April. [Drawbot templates»](zine)
