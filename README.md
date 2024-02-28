@@ -30,7 +30,7 @@ Note for students outside the US: Daylight time in the US starts 10 March. For t
 ## Code
 A record of the scripts that we write together in class. Links will become active after each session is concluded.
 
-- Session 01 code
+- [Session 01 code](session_01/code)
 - Session 02 code
 - Session 03 code
 - Session 04 code
