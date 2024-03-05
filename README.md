@@ -31,7 +31,7 @@ Note for students outside the US: Daylight time in the US starts 10 March. For t
 A record of the scripts that we write together in class. Links will become active after each session is concluded.
 
 - [Session 01 code](session_01/code)
-- Session 02 code
+- [Session 02 code](session_02/code)
 - Session 03 code
 - Session 04 code
 - Session 05 code
@@ -40,7 +40,7 @@ A record of the scripts that we write together in class. Links will become activ
 Our version of homework: solve problems and practice skills we cover in class. Skip ahead, or riff on these to make and solve your own problems. Possible solutions are available if you want to peek. Post what you make in #show_and_tell on Slack!
 
 - [Session 01 challenges](session_01/challenges)
-- Session 02 challenges
+- [Session 02 challenges](session_02/challenges)
 - Session 03 challenges
 - Session 04 challenges
 
