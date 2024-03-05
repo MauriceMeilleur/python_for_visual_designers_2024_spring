@@ -2,8 +2,6 @@
 
 * [**Session 1 code**](/session_01/code)
 * [**Session 1 challenges**](/session_01/challenges)
-* Session 1 recording
-* Slides
 
 ## Rough outline
 
