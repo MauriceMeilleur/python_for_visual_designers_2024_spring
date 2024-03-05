@@ -1,9 +1,7 @@
 # Session 2: Objects and Canvas
 
-* [**Session 2 code**](/session-2/code)
-* [**Session 2 challenges**](/session-2/challenges)
-* [**Session 2 recording**](https://github.com/djrrb/Python-for-Visual-Designers-Fall-2023#recordings)
-
+* [**Session 2 code**](/session_02/code)
+* [**Session 2 challenges**](/session_02/challenges)
 
 ## Rough outline
 
