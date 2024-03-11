@@ -48,7 +48,7 @@ Our version of homework: solve problems and practice skills we cover in class. S
 All class sessions are recorded. Links will become active after each session is concluded. Please do not share these videos with anyone outside of our class.
 
 - [Session 01 recording](https://drive.google.com/file/d/1txmk_Fea9CiO52sLYV8YJ2c26-0pVCVF/view?usp=drive_link)
-- Session 02 recording
+- [Session 02 recording](https://drive.google.com/file/d/1lm3y9XF9cSYutA3J-GVRqpAStfp9iLBT/view?usp=drive_link)
 - Session 03 recording
 - Session 04 recording
 - Session 05 recording
