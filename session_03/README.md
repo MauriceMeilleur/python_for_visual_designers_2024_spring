@@ -15,6 +15,5 @@
 * [Vera Molnar](http://www.veramolnar.com)
 * [@beesandbombs](https://twitter.com/beesandbombs)
 * [Daily Drawbot](https://dailydrawbot.tumblr.com)
-* [Maurice Meilleur](https://mauricemeilleur.net/munari_peano)
 * [Drawbot Forum Code Snippets](https://forum.drawbot.com/category/8/code-snippets)
 * [Drawbot American Flag](https://github.com/djrrb/OldGlory/blob/master/oldGlory.py)
