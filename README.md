@@ -32,7 +32,7 @@ A record of the scripts that we write together in class. Links will become activ
 
 - [Session 01 code](session_01/code)
 - [Session 02 code](session_02/code)
-- Session 03 code
+- [Session 03 code](session_03/code)
 - Session 04 code
 - Session 05 code
 
@@ -41,7 +41,7 @@ Our version of homework: solve problems and practice skills we cover in class. S
 
 - [Session 01 challenges](session_01/challenges)
 - [Session 02 challenges](session_02/challenges)
-- Session 03 challenges
+- [Session 03 challenges](session_03/challenges)
 - Session 04 challenges
 
 ## Recordings
@@ -49,7 +49,7 @@ All class sessions are recorded. Links will become active after each session is 
 
 - [Session 01 recording](https://drive.google.com/file/d/1txmk_Fea9CiO52sLYV8YJ2c26-0pVCVF/view?usp=drive_link)
 - [Session 02 recording](https://drive.google.com/file/d/1lm3y9XF9cSYutA3J-GVRqpAStfp9iLBT/view?usp=drive_link)
-- Session 03 recording
+- [Session 03 recording](https://drive.google.com/file/d/1A5joonphE5xwo1R6i-UJj6zfN0scuZ3E/view?usp=drive_link)
 - Session 04 recording
 - Session 05 recording
 
