@@ -1,4 +1,4 @@
-# Session 4: Layouts
+# Session 4: Curves and formatted strings
 
 * [**Session 4 code**](/session_04/code)
 * [**Session 4 challenges**](/session_04/challenges)
