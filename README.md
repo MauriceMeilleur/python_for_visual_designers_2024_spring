@@ -24,7 +24,7 @@ Note for students outside the US: Daylight time in the US starts 10 March. For t
 - Session 01 / 27 February / Loops and shapes
 - Session 02 / 05 March	/ Objects and canvas
 - Session 03 / 12 March	/ Text and image
-- Session 04 / 19 March	/ Layouts
+- Session 04 / 19 March	/ Curves and formatted strings
 - Session 05 / 26 March	/ Animation
 
 ## Code
