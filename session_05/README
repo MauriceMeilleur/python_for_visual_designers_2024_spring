@@ -1,1 +1,11 @@
+# Session 5: Animation
 
+* [**Session 5 code**](/session-5/code)
+
+## Rough outline
+
+* Linear gradients [(docs)](https://www.drawbot.com/content/color/fill.html?highlight=linear%20gradient#drawBot.linearGradient)
+* Clipping paths [(docs)](https://www.drawbot.com/content/shapes/drawingPath.html?highlight=clipping%20path#drawBot.clipPath)
+* Animation techniques using `sin()` and `cos()`
+* Using variable fonts in DrawBot with `fontVariations()` [(docs)](https://www.drawbot.com/content/text/textProperties.html#drawBot.fontVariations)
+* Python dictionaries [(docs)](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
