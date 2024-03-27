@@ -51,7 +51,7 @@ All class sessions are recorded. Links will become active after each session is 
 - [Session 02 recording](https://drive.google.com/file/d/1lm3y9XF9cSYutA3J-GVRqpAStfp9iLBT/view?usp=drive_link)
 - [Session 03 recording](https://drive.google.com/file/d/1A5joonphE5xwo1R6i-UJj6zfN0scuZ3E/view?usp=drive_link)
 - [Session 04 recording](https://drive.google.com/file/d/1tlaK-tq_2XarP8LlN0bw9tUUh3ai_unp/view?usp=drive_link)
-- Session 05 recording
+- [Session 05 recording](https://drive.google.com/file/d/1sIN2DXA7G-9jQaIBLopY4-7FmiNX4jcE/view?usp=drive_link)
 
 ## Zine
 Everyone is encouraged to contribute 6 pages/3 spreads for the class zine. I’ll make it available in .pdf once the course has concluded. Format is A5 portrait with full bleeds, and the submission deadline is 2 April. [Drawbot templates»](zine)
