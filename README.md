@@ -54,7 +54,7 @@ All class sessions are recorded. Links will become active after each session is 
 - [Session 05 recording](https://drive.google.com/file/d/1sIN2DXA7G-9jQaIBLopY4-7FmiNX4jcE/view?usp=drive_link)
 
 ## Zine
-Everyone is encouraged to contribute 6 pages/3 spreads for the class zine. I’ll make it available in .pdf once the course has concluded. Format is A5 portrait with full bleeds, and the submission deadline is 2 April. [Drawbot templates»](zine)
+Everyone is encouraged to contribute 6 pages/3 spreads for the class zine. I’ll make it available in .pdf once the course has concluded. Format is A5 portrait with full bleeds, and the submission deadline is 16 April. [Drawbot templates»](zine)
 
 Past zines for inspiration (these are all from David Jonathan Ross’s students in this course):
 - [Zine 1](https://drive.google.com/file/d/1lV9MC17-bLOm1kO5i_7HHkMTIs5AuWQz/view?usp=sharing)
